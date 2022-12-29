@@ -6,6 +6,7 @@
 - email: 942840260@qq.com
 - email: gisdoing@gmail.com
 
+- own-site: [ClickOnce](http://clickonce.vip)
 - wechat: ytouching
 
 <!---

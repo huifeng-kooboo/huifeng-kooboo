@@ -9,6 +9,8 @@
 - own-site: [ClickOnce](http://clickonce.vip)
 - wechat: ytouching
 
+- you can learn Qt-Component Framework In [DT](https://github.com/huifeng-kooboo/DT)
+
 [![Huifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=huifeng-kooboo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---

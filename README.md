@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huifeng-kooboo
+- 👋 Hi, I’m @huifeng-kooboo, Don`t do bullshit.
 
 - 目前是一个独立开发者，如果有需求或者单子的话，可以加我微信聊一下啦
   微信号: ytouching

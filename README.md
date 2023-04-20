@@ -16,6 +16,7 @@
 - wechat: ytouching
 
 - 个人技术栈
+
 | 方向 | 技能/框架 |  涉及的编程语言 | 掌握的程度 | 个人项目地址 | 备注 |
 | --- | --- | --- | --- | --- | --- |
 | 后端 | Django-RestFramework | Python | 熟练 | https://github.com/huifeng-kooboo/Fire-backend | 可以独立开发后台项目，并且部署上线。 |

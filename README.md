@@ -19,7 +19,7 @@
 
 - Do Music All the Time
 
-<img src="https://ytouch-1258011219.cos.ap-nanjing.myqcloud.com/music_ward.jpg" width = "200" height = "200"  />
+<img src="https://ytouch-1258011219.cos.ap-nanjing.myqcloud.com/music_ward.jpg" width = "500" height = "500"  />
 
 ---
 

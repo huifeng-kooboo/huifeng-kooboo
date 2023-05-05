@@ -15,6 +15,14 @@
 - own-site: [ClickOnce](http://clickonce.vip)
 - wechat: ytouching
 
+---
+
+- Do Music All the Time
+
+<img src="https://ytouch-1258011219.cos.ap-nanjing.myqcloud.com/music_ward.jpg" width = "200" height = "200"  />
+
+---
+
 - 个人技术栈
 
 | 方向 | 技能/框架 |  涉及的编程语言 | 掌握的程度 | 个人项目地址 | 备注 |

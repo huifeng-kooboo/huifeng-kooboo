@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @huifeng-kooboo, Don`t do bullshit.
 
-- 目前是一个独立开发者，如果有需求或者单子的话，可以加我微信聊一下啦
-  微信号: ytouching
+- 目前是一个独立全栈开发者，如果有需求或者外包单子，联系微信: ytouching
    (HR也欢迎来联系一下)
 
 - 主要承接Web、小程序、IOS/Android 、PC端的程序开发，可以加微信了解！

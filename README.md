@@ -12,7 +12,7 @@
 - email: gisdoing@gmail.com
 
 - 咸鱼店转转
-<img src="https://ytouch-1258011219.cos.ap-nanjing.myqcloud.com/tttt.jpg" width = "300" height = "300" />
+<img src="https://ytouch-1258011219.cos.ap-nanjing.myqcloud.com/tttt.jpg" width = "300" height = "600" />
 
 - wechat: ytouching
 <img src="https://ytouch-1258011219.cos.ap-nanjing.myqcloud.com/5691702057059_.pic.jpg" width = "300" height = "300" />

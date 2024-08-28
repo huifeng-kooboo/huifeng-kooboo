@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @huifeng-kooboo, Don`t do bullshit.
+-  大家也可以通过[腾讯云服务器](https://curl.qcloud.com/tTuWmDCs) 上去购买云服务器部署
 
 - 目前是一个独立全栈开发者，如果有需求或者外包单子，联系微信: ytouching
    (HR也欢迎来联系一下)

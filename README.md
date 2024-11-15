@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @huifeng-kooboo, Don`t do bullshit.
+- 技术栈： Qt / Python / C++ / Vue / Electron / C# / JavaScript / React
 -  大家也可以通过[腾讯云服务器](https://curl.qcloud.com/ZifIHI2W) 上去购买云服务器部署
 -  ![180_360](https://ytouch-1258011219.cos.ap-nanjing.myqcloud.com/180_360.png)
 

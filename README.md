@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @huifeng-kooboo, Don`t do bullshit.
+- apply for remote work!!!!!!(can connect with wechat: ytouching  or gmail: gisdoing@gmail.com)
 - 技术栈： Qt / Python / C++ / Vue / Electron / C# / JavaScript / React
 - 目前是一个独立全栈开发者，如果有需求或者外包单子，联系微信: ytouching
    (HR也欢迎来联系一下)
